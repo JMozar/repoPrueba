@@ -1,0 +1,82 @@
+git pull origin main(traer informacion)
+
+----------------para hacer cambiospu
+git add .
+
+git commit -m "cualquier mensaje"
+
+git push origin main
+git push origin nombre_rama(su trabajo en mi rama esa pongo)
+-------------------------
+
+la q es para regresar
+
+
+si tengo errores elimino todo y le doy a clonar de nuevo
+-------------------
+git pull origin <nombre-rama> traer cambios en esa rama
+
+git log para ver el historial
+-----------------------
+git branch saber rama
+
+git status para saber si modifique
+---------------
+RAMAS
+--------------
+git branch nombre_rama
+git checkout -b nombre rama (es para crear y mover)
+
+git branch nombre (crear rama)
+
+git branch (saber en eque rama estoy) la que esta de color
+
+git checkout nombre(para moverme de rama)
+
+git push origin nombreRama (subir rama)
+
+
+
+git fetch --all -p traer informacion de las ramas 
+
+si me muevo una rama y le doy git pull origin nombre
+me traigo a mi pc los cambios en esa rama
+osea un chechout y luego 
+
+si estoy en mi rama hago un git push oriigin a mi rama
+
+git checout favio
+
+git pull origin favio
+
+--------------
+voy a mi rama
+
+git merge nimbrerama(fusiona la rama donde estoy y la que elijo)
+
+habran conflictos
+lo ordeno en el visual
+
+git status 
+
+luego git add y lo demas a mi rama
+-----------------
+
+si no me sale una rama le doy chechpout y me traigo los cambios
+
+----------------
+osea voy a mi9 rama
+
+hago merge a otra rama 
+
+soluciono conflicotos en visual
+-----------------------
+
+para que quede en la main me voy a main 
+y traigo mis cambios con merge
+
+SIEMPRE QUE ME CAMBIO DE RAMA hago 
+git pull origin nombre(traer informacion)
+
+
+
