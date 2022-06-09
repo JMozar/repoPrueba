@@ -32,6 +32,8 @@ public class App {
         System.out.println(alumnos.agregar(alumno));
         System.out.println("Imprimiendo los alumnos del arreglo");
         System.out.println(alumnos);
+        //A
+        
         
     }
 }
